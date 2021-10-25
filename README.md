@@ -1,0 +1,2 @@
+# konsolum
+benim ilk denemelerimden
